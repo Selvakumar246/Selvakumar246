@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" hspace="40" width="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx1MGhuaTJodTVpbWd0N3NkY3lrajl6NXFuZTBuNnZ2eHcxc2didiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"> 
+<img align="right" hspace="40" width="350" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx1MGhuaTJodTVpbWd0N3NkY3lrajl6NXFuZTBuNnZ2eHcxc2didiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ems0NDc2cmZkNWp1am82cmx1ZjRhOGtidmU0dnFhdWF4bmcwbnkyOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)"> 
 
 🎓 B.Tech IT Student (2024-28) | CGPA: **9.1**
 
