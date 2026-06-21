@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx1MGhuaTJodTVpbWd0N3NkY3lrajl6NXFuZTBuNnZ2eHcxc2didiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"> 
+<img align="right" hspace="40" width="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx1MGhuaTJodTVpbWd0N3NkY3lrajl6NXFuZTBuNnZ2eHcxc2didiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"> 
 
 🎓 B.Tech IT Student (2024-28) | CGPA: **9.1**
 
@@ -33,19 +33,19 @@
 <a href="https://www.linkedin.com/in/v-selvakumar-997655326/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://vjselvakumar.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:vjselvakumarofficial@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.youtube.com/@SelvaSimplifies">
   <img src="https://img.shields.io/badge/Selva%20Simplifies-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF" />
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/selva_simplifies?igsh=MXVpcmM5b3Z1cjFmZg==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
